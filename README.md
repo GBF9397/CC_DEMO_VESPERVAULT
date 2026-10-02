@@ -24,7 +24,7 @@ Phones get touch controls automatically. Current version: **v0.07.4**.
 
 ### What's new in v0.07.4
 
-- Gate keys and the Golden Key glow with an outline and a soft light beam.
+- Gate keys and the Golden Key have a thin glowing outline and a faint light line above them.
 - Pillars turn see-through when you walk near them.
 - The Root Gate's four holes light up blue one by one before it opens.
 - New opening scene text (English and 中文).
