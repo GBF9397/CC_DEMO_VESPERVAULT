@@ -5,7 +5,7 @@
 **https://gbf9397.github.io/CC_DEMO_VESPERVAULT/**
 
 Works on **phone and PC** in the browser - nothing to install, no download.
-Phones get touch controls automatically. Current version: **v0.07.3**.
+Phones get touch controls automatically. Current version: **v0.07.4**.
 
 **中文：** 在标题画面右上角点 **中文** 就能切换成中文。 / **Language:** tap **中文** or **ENGLISH** at the top right of the title screen.
 
@@ -22,10 +22,13 @@ Phones get touch controls automatically. Current version: **v0.07.3**.
 - Phone: hold it **sideways**. First load takes a few seconds (about 6 MB), then it is cached.
 - Add to home screen (Safari: Share > Add to Home Screen) to open it like an app.
 
-### What's new in v0.07.3
+### What's new in v0.07.4
 
-- English / 中文 language switch (title screen, top right, and in the pause menu).
-- Chinese title: 忆之笼.
+- Gate keys and the Golden Key glow with an outline and a soft light beam.
+- Pillars turn see-through when you walk near them.
+- The Root Gate's four holes light up blue one by one before it opens.
+- New opening scene text (English and 中文).
+- Chinese wording smoother (破钟, 残破的留言板).
 
 ### Found a bug?
 
