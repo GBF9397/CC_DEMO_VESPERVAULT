@@ -5,7 +5,7 @@
 **https://gbf9397.github.io/CC_DEMO_VESPERVAULT/**
 
 Works on **phone and PC** in the browser - nothing to install, no download.
-Phones get touch controls automatically. Current version: **v0.08**.
+Phones get touch controls automatically. Current version: **v0.07.5**.
 
 **中文：** 在标题画面右上角点 **中文** 就能切换成中文。 / **Language:** tap **中文** or **ENGLISH** at the top right of the title screen.
 
@@ -22,7 +22,7 @@ Phones get touch controls automatically. Current version: **v0.08**.
 - Phone: hold it **sideways**. First load takes a few seconds (about 6 MB), then it is cached.
 - Add to home screen (Safari: Share > Add to Home Screen) to open it like an app.
 
-### What's new in v0.08
+### What's new in v0.07.5
 
 - Rooms rearranged: the Keeper's Audit is now west of the Long Hall - light the hall lamp to open its hidden door.
 - Two gate keys are inside the Keeper's Audit; falling stones are spread over several rooms.
