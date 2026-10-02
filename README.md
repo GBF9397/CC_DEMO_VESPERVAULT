@@ -5,7 +5,7 @@
 **https://gbf9397.github.io/CC_DEMO_VESPERVAULT/**
 
 Works on **phone and PC** in the browser - nothing to install, no download.
-Phones get touch controls automatically. Current version: **v0.07.4**.
+Phones get touch controls automatically. Current version: **v0.08**.
 
 **中文：** 在标题画面右上角点 **中文** 就能切换成中文。 / **Language:** tap **中文** or **ENGLISH** at the top right of the title screen.
 
@@ -22,13 +22,13 @@ Phones get touch controls automatically. Current version: **v0.07.4**.
 - Phone: hold it **sideways**. First load takes a few seconds (about 6 MB), then it is cached.
 - Add to home screen (Safari: Share > Add to Home Screen) to open it like an app.
 
-### What's new in v0.07.4
+### What's new in v0.08
 
-- Gate keys and the Golden Key have a thin glowing outline and a faint light line above them.
-- Pillars turn see-through when you walk near them.
-- The Root Gate's four holes light up blue one by one before it opens.
-- New opening scene text (English and 中文).
-- Chinese wording smoother (破钟, 残破的留言板).
+- Rooms rearranged: the Keeper's Audit is now west of the Long Hall - light the hall lamp to open its hidden door.
+- Two gate keys are inside the Keeper's Audit; falling stones are spread over several rooms.
+- A dotted line shows the way to the fire bowl after the Root Gate opens.
+- Lantern flames (health) are at the bottom middle of the screen with a new flame icon.
+- The Old Keeper stands in the open now; the map shows a compass N when it turns.
 
 ### Found a bug?
 
