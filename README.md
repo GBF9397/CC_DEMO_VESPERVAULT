@@ -5,7 +5,7 @@
 **https://gbf9397.github.io/CC_DEMO_VESPERVAULT/**
 
 Works on **phone and PC** in the browser - nothing to install, no download.
-Phones get touch controls automatically. Current version: **v0.07.7**.
+Phones get touch controls automatically. Current version: **v0.08**.
 
 **中文：** 在标题画面右上角点 **中文** 就能切换成中文。 / **Language:** tap **中文** or **ENGLISH** at the top right of the title screen.
 
@@ -22,11 +22,13 @@ Phones get touch controls automatically. Current version: **v0.07.7**.
 - Phone: hold it **sideways**. First load takes a few seconds (about 6 MB), then it is cached.
 - Add to home screen (Safari: Share > Add to Home Screen) to open it like an app.
 
-### What's new in v0.07.7
+### What's new in v0.08
 
-- Close views: Edda fades out so she never blocks what she looks at, and fades back in after
-- Close views also for the Old Keeper, Senn's notes, the door lock, the broken bell, the dark lamp and the end carving
-- Health is hidden while you read or talk, and comes back when the dialogue ends
+- Part 1 of v0.08 - the new character models come next
+- Run (hold Shift), crouch (C) and lie down (Z); phone: three new buttons
+- New Narrow Passage with wall spikes (crouch under) and roof fire (crawl under)
+- Turn the view around Edda (right mouse / swipe), reset view (R / rotate button)
+- Settings page with an Advanced section: tap or hold for crouch and lie down, free view on/off
 
 ### Found a bug?
 
