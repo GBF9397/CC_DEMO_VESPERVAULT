@@ -5,7 +5,7 @@
 **https://gbf9397.github.io/CC_DEMO_VESPERVAULT/**
 
 Works on **phone and PC** in the browser - nothing to install, no download.
-Phones get touch controls automatically. Current version: **v0.08**.
+Phones get touch controls automatically. Current version: **v0.08.1**.
 
 **中文：** 在标题画面右上角点 **中文** 就能切换成中文。 / **Language:** tap **中文** or **ENGLISH** at the top right of the title screen.
 
@@ -22,13 +22,13 @@ Phones get touch controls automatically. Current version: **v0.08**.
 - Phone: hold it **sideways**. First load takes a few seconds (about 6 MB), then it is cached.
 - Add to home screen (Safari: Share > Add to Home Screen) to open it like an app.
 
-### What's new in v0.08
+### What's new in v0.08.1
 
-- Part 1 of v0.08 - the new character models come next
-- Run (hold Shift), crouch (C) and lie down (Z); phone: three new buttons
-- New Narrow Passage with wall spikes (crouch under) and roof fire (crawl under)
-- Turn the view around Edda (right mouse / swipe), reset view (R / rotate button)
-- Settings page with an Advanced section: tap or hold for crouch and lie down, free view on/off
+- Keys appear only after you read the name plate in the east room (a dotted line leads there)
+- Edda counts her keys in plain words; her restart line fits what hit her
+- Goal text without a box; Settings without extra lines
+- Run 30% faster, walking a little slower; PC: F to use, Tab for the bag
+- PC: an animated hint shows how to turn the view (hold right mouse button)
 
 ### Found a bug?
 
