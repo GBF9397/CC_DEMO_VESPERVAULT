@@ -5,7 +5,7 @@
 **https://gbf9397.github.io/CC_DEMO_VESPERVAULT/**
 
 Works on **phone and PC** in the browser - nothing to install, no download.
-Phones get touch controls automatically. Current version: **v0.07.6**.
+Phones get touch controls automatically. Current version: **v0.07.7**.
 
 **中文：** 在标题画面右上角点 **中文** 就能切换成中文。 / **Language:** tap **中文** or **ENGLISH** at the top right of the title screen.
 
@@ -22,14 +22,11 @@ Phones get touch controls automatically. Current version: **v0.07.6**.
 - Phone: hold it **sideways**. First load takes a few seconds (about 6 MB), then it is cached.
 - Add to home screen (Safari: Share > Add to Home Screen) to open it like an app.
 
-### What's new in v0.07.6
+### What's new in v0.07.7
 
-- New screen layout: goal under the map, Edda's portrait with her flames at the top right
-- Edda speaks her lines at the bottom of the screen; small hints appear beside things you can use
-- The Golden Key goes into a lock beside the north door; a dotted line and a ! show the way
-- Boards and plates are read up close; the sign post names the rooms
-- Falling stones: a red circle shrinks to show where the stone lands; You Lost screen with Retry
-- Memory filled screen with memory shards; the Old Keeper turns to you and breathes; fixes
+- Close views: Edda fades out so she never blocks what she looks at, and fades back in after
+- Close views also for the Old Keeper, Senn's notes, the door lock, the broken bell, the dark lamp and the end carving
+- Health is hidden while you read or talk, and comes back when the dialogue ends
 
 ### Found a bug?
 
