@@ -5,7 +5,7 @@
 **https://gbf9397.github.io/CC_DEMO_VESPERVAULT/**
 
 Works on **phone and PC** in the browser - nothing to install, no download.
-Phones get touch controls automatically. Current version: **v0.08.5**.
+Phones get touch controls automatically. Current version: **v0.08.6**.
 
 **中文：** 在标题画面右上角点 **中文** 就能切换成中文。 / **Language:** tap **中文** or **ENGLISH** at the top right of the title screen.
 
@@ -22,10 +22,9 @@ Phones get touch controls automatically. Current version: **v0.08.5**.
 - Phone: hold it **sideways**. First load takes a few seconds (about 6 MB), then it is cached.
 - Add to home screen (Safari: Share > Add to Home Screen) to open it like an app.
 
-### What's new in v0.08.5
+### What's new in v0.08.6
 
-- New opening: Edda wakes up - she sits up, pushes off the floor and stands to look around.
-- Edda never floats or sinks into the floor.
+- Fixed: Edda no longer flashes white when she fades out and in around an interaction.
 
 ### Found a bug?
 

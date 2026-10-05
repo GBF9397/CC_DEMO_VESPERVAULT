@@ -1,7 +1,7 @@
 VESPERvault PLAYTEST
 ====================
 
-Generated: 2026-10-05 11:48:37
+Generated: 2026-10-05 11:55:54
 Platform: WEB
-Owner version: v0.08.5
+Owner version: v0.08.6
 Status: Unity build succeeded. Browser and device feedback remain separate evidence.
